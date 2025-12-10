@@ -6,6 +6,6 @@ Inverse design procedure of wind turbine using WISDEM, WEIS, ROSCO, and OpenFAST
 
 Different simulation set ups I used for OpenFAST along with code to run it through MATLAB. Mainly full simulations and linearization studies in OpenFAST
 
-Some modelling of Rotor Anisotropy, in particular modelling whirling modes in Campbel diagram
+Some modelling of Rotor Anisotropy, in particular modelling whirling modes in Campbell diagram
 
 OpenFAST external platform model which uses a linearized Gazetas foundation model along with "Earthquake" inputs
